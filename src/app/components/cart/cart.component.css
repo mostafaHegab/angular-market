@@ -1,0 +1,20 @@
+table {
+    border: 3px solid #b5b5b5
+}
+
+thead {
+    border-bottom: 3px solid #b5b5b5
+}
+
+tr {
+    border-bottom: 2px solid #b5b5b5
+}
+
+td {
+    border-right: 2px solid #b5b5b5;
+    padding: 8px 15px
+}
+
+.btn {
+    margin: 3px
+}

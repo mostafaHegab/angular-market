@@ -1,0 +1,18 @@
+.form-control {
+  margin-bottom: 10px
+}
+
+.router-container {
+  position: relative
+}
+
+.router-container > * {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0
+}
+
+body {
+  overflow-x: hidden
+}
